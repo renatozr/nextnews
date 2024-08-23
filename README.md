@@ -3,7 +3,7 @@
   <h3 align="center">NextNews</h3>
 
   <p align="center">
-    A News Site For The Next Generation
+    A news site for the next generation
     <br />
     <br />
     <a href="https://nextnews-one.vercel.app/">View Demo</a>
