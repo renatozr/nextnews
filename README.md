@@ -6,7 +6,7 @@
     A news site for the next generation
     <br />
     <br />
-    <a href="https://nextnews-one.vercel.app/">View Demo</a>
+    <a href="https://nextnews-delta.vercel.app/">View Demo</a>
   </p>
 </div>
 
